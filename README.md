@@ -78,6 +78,11 @@ on the host in the Linux_for_Tegra folder and reflash.
 
 ## Release Notes
 
+
+### May 2022
+* Support Branch JetPack 4.6.2
+* L4T 32.7.2
+
 ### May 2022
 * Support Branch JetPack 4.6.1
 * L4T 32.7.1
